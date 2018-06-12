@@ -1,0 +1,33 @@
+{
+  "name": "apielectronicbilling",
+  "version": "1.0.0",
+  "description": "API destined to the consumption of web service of the SRI (Ecuador)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luis0794/APIElectronicBilling.git"
+  },
+  "keywords": [
+    "api",
+    "electronicbilling",
+    "billing",
+    "electronic",
+    "facturacion",
+    "electronica",
+    "facturacionelectronica",
+    "ecuador",
+    "sri"
+  ],
+  "author": "Luis Fernando Tobar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luis0794/APIElectronicBilling/issues"
+  },
+  "homepage": "https://github.com/luis0794/APIElectronicBilling#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
